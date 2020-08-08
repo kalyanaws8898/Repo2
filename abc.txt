@@ -1,4 +1,6 @@
  hellow abc file how are you ?
 
 
-Adding new line for stash 
+Adding new line for stash
+
+Adding a line for diff example 
